@@ -1,0 +1,18 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "wusaqi.moc3",
+		"Textures": [
+			"wusaqi.8192/texture_00.png"
+		],
+		"Physics": "wusaqi.physics3.json",
+		"DisplayInfo": "wusaqi.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
